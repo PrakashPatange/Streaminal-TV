@@ -36,15 +36,6 @@ Streaminal TV is a simple web app for streaming content online.
    ```
 6. Open `http://localhost:3000` in your browser.
 
-## Contributing
-Fork the repo and submit a pull request.
-
-## License
-MIT License.
-
-## Contact
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
-
 Happy coding! 🚀
 
 
